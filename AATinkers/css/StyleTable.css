@@ -1,0 +1,52 @@
+#container { 
+    
+    width: 700px; 
+    margin: 10px auto; 
+    background-color: #eee; 
+    padding:15px; 
+    overflow: hidden; 
+} 
+
+#main { 
+    
+    width: 490px; 
+    float: left; 
+} 
+
+#main table { 
+    
+    width: 480px; 
+} 
+
+#main table th { 
+    
+    padding: 10px; 
+    background-color: #48577D; 
+    color: #fff; 
+    text-align: center; 
+} 
+
+#main table td {
+    
+    padding: 5px; 
+} 
+
+#main table tr { 
+    
+    background-color: #d3dcf2; 
+} 
+
+/*#sidebar { 
+    
+    width: 200px; 
+    float: left; 
+}*/
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    height: 25px;
+    text-decoration: none;
+    color: initial;
+}

@@ -1,0 +1,44 @@
+<font color= black> 
+<h3>1. Introduction</h3>
+    <p>1.1 These terms and conditions shall govern your use of our website.<br />1.2 By using our website, you accept these terms and conditions in full, accordingly, if you disagree with these terms and conditions or any part of these terms and conditions, you must not use our website.<br />1.3 If you use any of our website services, we will ask you to expressly agree to these terms and conditions.<br />1.4 You must be at least 18 years of age to use our website.</p>
+<br />
+<h3>2. Registration and accounts</h3>
+	<p>2.1 To be eligible for an account on our website, you must be resident or situated in Cape Town.<br />2.2 You may register for an account with our website by sign up and submitting the account registration form on our website.<br />2.3	You must not allow any other person to use your account to access the website.<br />2.4	You must notify us in writing immediately if you become aware of any unauthorized use of your account our details can be found under About and Contact Us on website.<br />2.5	You must not use any other person's account to access the website, unless you have that person's express permission to do so.</p>
+<br />
+<h3>3. User login details</h3>
+     <p>3.1 You only login with our website only if you are registered to our database, If you haven’t register for an account with our website we provided you with a button link to register [Signup], you will be able to choose a user ID and password.<br />3.2 You must keep your password confidential.<br />3.3 You must notify us in writing immediately if you become aware of any disclosure of your password.<br />3.4 You are responsible for any activity on our website arising out of any failure to keep your password confidential, and may be held liable for any losses arising out of such a failure.</p>
+<br />
+<h3>4.Buyers</h3>
+	<p>4.1 You may buy goods offered in our website by completing the order form that is also available on the site and to be able to do that you must be older than 18 years.
+	<br/>4.2 Goods will remain our products until you fuuly pay them.</p>
+<h3>5. Cancellation and suspension of account</h3>
+	<p>5.1 You may cancel your account on our website by emailing us an application for cancelation and we will do such within period of two days.</p>
+<br />
+<h3>6. Violation of these terms and conditions</h3>
+     <p>6.1 Without prejudice to our other rights under these terms and conditions, if you violate these terms and conditions in any way, or if we reasonably suspect that you have violated these terms and conditions in any way, we may:<br /> &nbsp;&nbsp;&nbsp;(a)	Send you one or more formal warnings.<br />&nbsp;&nbsp;&nbsp;(b)	Temporarily suspend your access to our website.<br />6.2 Where we suspend or prohibit or block your access to our website or a part of our website, you must not take any action to circumvent such suspension or prohibition or blocking, creating and/or using a different account.</p>
+<br />
+<h3>7. Changes/Variations</h3>
+     <p>7.1 We may revise these terms and conditions from time to time but before we do that we will provide a two month notification on the site.<br /> 7.2 If you have given your express agreement to these terms and conditions, we will ask for your express agreement to any revision of these terms and conditions, and if you do not give your express agreement to the revised terms and conditions within such period as we may specify, we will disable or delete your account on the website, and you must stop using the website.</p>
+<br />
+<h3>8. Third party rights</h3>
+	<p>8.1 A contract under these terms and conditions is for our benefit and your benefit, and is not intended to benefit or be enforceable by any third party.<br />8.2 The exercise of the parties' rights under a contract under these terms and conditions is not subject to the consent of any third party.</p>
+<br/>
+<h39. Our details</h3>
+	<p>9.1 This website is owned and operated by African Art Tinkers.
+	<br />9.2 Our principal place of business is at Keizersgracht and Tennant Street Zonnebloem PO Box 652 Cape Town 8000.<br />9.3 You can contact us:<br />&nbsp;&nbsp;&nbsp;(a) By post, using the postal address given above.<br />&nbsp;&nbsp;&nbsp;(b) Using our website Contact Us page
+	<br />&nbsp;&nbsp;&nbsp;(c) By email on aatinkers@gmail.com or call us on +2721 4603911.<br />
+	<br />&nbsp;&nbsp;&nbsp; For more information about us visit our site(Conyact Us / About Us) and enjoy it to the fullest.</p>
+<br />
+<h3>10. Delivery and Returns</h3>
+	<p>10.1 Concerning the delivery, we don't offer any delivery visit Contact Us page on our site for directions and use 	email and telephone number to get into our store as early as you wish.
+    <br/>10.2 We give you period of 7 days for testing the product and if you are not sastisfied you may log a call or email us back our workers are there to help you from 8:00 am to 4:30 pm 
+    <br/> but for you to return a good you must make sure it is the way it was when you bought it ,no new needle craft happened if the good is demaged then the return application will not be considered.</p>
+	<!--Agree:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <input type="radio" name="condition" value="agree">
+     <br><br>
+     Decline:&nbsp;&nbsp;&nbsp;&nbsp;
+     <input type="radio" name="condition"  value="decline">
+     <br><br>
+     <input type="submit" name="SubmitButton" value="Submit">-->
+     <br/>
+</font>
